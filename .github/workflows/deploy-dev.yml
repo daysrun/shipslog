@@ -49,8 +49,8 @@ jobs:
         run: |
           mkdir -p _site/main
           mkdir -p _site/dev
-          cp -r /tmp/main/killick/* _site/main/
-          cp -r /tmp/dev/killick/* _site/dev/
+          cp -r /tmp/main/* _site/main/
+          cp -r /tmp/dev/* _site/dev/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
