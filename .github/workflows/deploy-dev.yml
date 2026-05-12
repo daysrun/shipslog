@@ -35,22 +35,22 @@ jobs:
         run: |
           git fetch origin main
           git checkout main
-          mkdir -p /tmp/killick-main
-          cp -r killick /tmp/killick-main/
+          mkdir -p /tmp/main
+          cp -r * /tmp/main/
 
       - name: Checkout dev branch
         run: |
           git fetch origin dev
           git checkout dev
-          mkdir -p /tmp/killick-dev
-          cp -r killick /tmp/killick-dev/
+          mkdir -p /tmp/dev
+          cp -r * /tmp/dev/
 
       - name: Prepare deployment directory
         run: |
-          mkdir -p _site/killick/main
-          mkdir -p _site/killick/dev
-          cp -r /tmp/killick-main/killick/* _site/killick/main/
-          cp -r /tmp/killick-dev/killick/* _site/killick/dev/
+          mkdir -p _site/main
+          mkdir -p _site/dev
+          cp -r /tmp/main/killick/* _site/main/
+          cp -r /tmp/dev/killick/* _site/dev/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
