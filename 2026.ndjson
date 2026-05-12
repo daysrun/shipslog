@@ -11,3 +11,4 @@
 {"id":"20260511-1305","pointCount":104,"Distance":2818.362229824066,"boatName":"Killick"}
 {"id":"20260511-1508","pointCount":2,"Distance":13.90425968170166,"boatName":"Killick"}
 {"id":"20260511-1555","pointCount":2,"Distance":1384.9042596817017,"meta":{"maxSpeed":545.2},"boatName":"Killick"}
+{"id":"20260512-1935","pointCount":114,"Distance":2571.708729863167,"boatName":"Walking Tests","meta":{"maxSpeed":1.761426329612732}}
