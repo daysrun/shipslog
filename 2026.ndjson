@@ -1,21 +1,3 @@
 {"id":"20260210-1558","pointCount":1879,"Distance":34574.01586137817,"boatName":"Hansel"}
 {"id":"20260211-1536","pointCount":2009,"Distance":44185.59337824764,"boatName":"Hansel"}
 {"id":"20260212-1549","pointCount":2033,"Distance":45090.6522848524,"boatName":"Hansel"}
-{"id":"20260501-1603","pointCount":76,"Distance":24284.45279066889,"boatName":"Killick"}
-{"id":"20260505-1433","pointCount":2,"Distance":0.0,"boatName":"Calm Waters"}
-{"id":"20260505-1447","pointCount":26,"Distance":989.8978633880615,"boatName":"Killick"}
-{"id":"20260505-1834","pointCount":41,"Distance":9093.562683105469,"boatName":"Killick"}
-{"id":"20260510-1918","pointCount":1,"Distance":0.0,"boatName":"Killick"}
-{"id":"20260510-1927","pointCount":1,"Distance":0.0,"boatName":"Killick"}
-{"id":"20260510-1930","pointCount":1,"Distance":0.0,"boatName":"Killick"}
-{"id":"20260511-1305","pointCount":104,"Distance":2818.362229824066,"boatName":"Killick"}
-{"id":"20260511-1508","pointCount":2,"Distance":13.90425968170166,"boatName":"Killick"}
-{"id":"20260511-1555","pointCount":2,"Distance":1384.9042596817017,"meta":{"maxSpeed":545.2},"boatName":"Killick"}
-{"id":"20260512-1935","pointCount":114,"Distance":2571.708729863167,"boatName":"Walking Tests","meta":{"maxSpeed":1.761426329612732}}
-{"id":"20260513-0055","pointCount":8,"Distance":3676.5457916259766,"boatName":"Walking Tests","meta":{"maxSpeed":13.431822776794434}}
-{"id":"20260518-1205","pointCount":1,"Distance":0.0,"boatName":"Killick","meta":{"maxSpeed":0.013105684891343117}}
-{"id":"20260519-2148","pointCount":1,"Distance":0.0,"boatName":"Killick","meta":{"maxSpeed":0.0}}
-{"id":"20260524-2047","pointCount":1,"Distance":0.0,"boatName":"Walking Tests","meta":{"maxSpeed":0.0}}
-{"id":"20260524-2104","pointCount":2,"Distance":1.9602622985839844,"boatName":"Walking Tests","meta":{"maxSpeed":0.33428844809532166}}
-{"id":"20260525-1436","pointCount":2,"Distance":8.13395881652832,"boatName":"Calm Waters","meta":{"maxSpeed":0.10992291569709778}}
-{"id":"20260525-1524","pointCount":2,"Distance":1421.8851318359375,"boatName":"Walking Tests","meta":{"maxSpeed":0.0}}
